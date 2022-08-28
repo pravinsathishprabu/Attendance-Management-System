@@ -1,4 +1,4 @@
-# Attendance-Management-system - SNAPSHOTS
+# Laravel Attendance-Management-system - SNAPSHOTS
 # Home Page
 ![1](https://user-images.githubusercontent.com/64587088/187059451-ad46312a-5e75-4eb3-8107-bb8845409725.png)
 # Staff Login
