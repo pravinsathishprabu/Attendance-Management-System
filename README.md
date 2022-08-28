@@ -11,7 +11,7 @@
 ![5](https://user-images.githubusercontent.com/64587088/187059467-fba66d00-77c4-4eee-9a09-204245e6e0ba.jpg)
 ![7](https://user-images.githubusercontent.com/64587088/187059470-b9207a6f-9632-4d18-9b33-cb36b2a14409.jpg)
 # Success Page
-![8](https://user-images.githubusercontent.com/64587088/187059475-d42903fc-3d5a-46b5-80ff-a2629b7e4fe2
+![8](https://user-images.githubusercontent.com/64587088/187075280-d5474906-3133-4e04-81bc-6846ae8203f1.png)
 # Warning Page
 ![9](https://user-images.githubusercontent.com/64587088/187059477-9e404bc1-816d-4dde-ae39-0c13f20eb7c6.png)
 .png)
@@ -22,12 +22,12 @@
 # Selected Bus Details
 ![12](https://user-images.githubusercontent.com/64587088/187059486-ec39404d-628a-4a6d-80e2-18e308e6546e.png)
 # Select Faculty
-![13](https://user-images.githubusercontent.com/64587088/18705
+![13](https://user-images.githubusercontent.com/64587088/187075337-9988d495-6db1-4731-9fe0-a79b1b43fac4.png)
 # Faculty Details
 ![14](https://user-images.githubusercontent.com/64587088/187059492-e5c6080f-1b4b-474a-808a-a5dbe59d0e83.png)
 9489-d3cb56e4-7201-4a35-9c24-87b68bf83fdb.png)
 # Student Login
-![15](https://user-images.githubusercontent.com/64587088/187059494-d0fc3845-9db6-4343-a02f-282175066cc9.png
+![15](https://user-images.githubusercontent.com/64587088/187075339-653ea5a0-8d39-4a0e-9347-2bbf6bbef768.png)
 # Student Dashboard
 ![16](https://user-images.githubusercontent.com/64587088/187059499-8204d933-e425-4ee9-9262-f8f4d03d8a97.png)
 )
