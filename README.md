@@ -9,7 +9,6 @@
 ![4](https://user-images.githubusercontent.com/64587088/187059463-dcd4dd7a-5a3f-400a-b4a1-f7034d2d0c9b.png)
 # Attendance
 ![5](https://user-images.githubusercontent.com/64587088/187059467-fba66d00-77c4-4eee-9a09-204245e6e0ba.jpg)
-![6](https://user-images.githubusercontent.com/64587088/187059469-0ba8e75b-4d83-49b9-93ee-af22e64f65c6.jpg)
 ![7](https://user-images.githubusercontent.com/64587088/187059470-b9207a6f-9632-4d18-9b33-cb36b2a14409.jpg)
 # Success Page
 ![8](https://user-images.githubusercontent.com/64587088/187059475-d42903fc-3d5a-46b5-80ff-a2629b7e4fe2
